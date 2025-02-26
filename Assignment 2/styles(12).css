@@ -1,0 +1,145 @@
+:root {
+  --font-family-inter: 'Inter', sans-serif;
+  --font-family-montserrat: 'Montserrat', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.rectangle-3-2 {
+  position: absolute;
+  left: 466px;
+  top: 261px;
+  width: 500px;
+  height: 86px;
+  background-color: rgba(255, 245, 245, 1);
+}
+
+.rectangle-4-3 {
+  position: absolute;
+  left: 470px;
+  top: 392px;
+  width: 500px;
+  height: 86px;
+  background-color: rgba(255, 245, 245, 1);
+}
+
+.rectangle-7-4 {
+  position: absolute;
+  left: 466px;
+  top: 644px;
+  width: 500px;
+  height: 86px;
+  background-color: rgba(255, 245, 245, 1);
+}
+
+.rectangle-6-5 {
+  position: absolute;
+  left: 470px;
+  top: 523px;
+  width: 500px;
+  height: 86px;
+}
+
+.text-6 {
+  position: absolute;
+  left: 483px;
+  top: 543px;
+  width: 109px;
+  height: 29px;
+  font-size: 24px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-7 {
+  position: absolute;
+  left: 526px;
+  top: 105px;
+  width: 349px;
+  height: 116px;
+  font-size: 96px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(255, 252, 252, 1);
+}
+
+.text-8 {
+  position: absolute;
+  left: 483px;
+  top: 289px;
+  width: 141px;
+  height: 29px;
+  font-size: 24px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-9 {
+  position: absolute;
+  left: 470px;
+  top: 674px;
+  width: 132px;
+  height: 29px;
+  font-size: 24px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.text-10 {
+  position: absolute;
+  left: 483px;
+  top: 420px;
+  width: 138px;
+  height: 29px;
+  font-size: 24px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.rectangle-5-11 {
+  position: absolute;
+  left: 461px;
+  top: 827.5px;
+  width: 509px;
+  height: 126px;
+}
+
+.text-12 {
+  position: absolute;
+  left: 595px;
+  top: 852px;
+  width: 260px;
+  height: 78px;
+  font-size: 64px;
+  font-family: var(--font-family-montserrat);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.design-13-1 {
+  position: absolute;
+  left: 6px;
+  top: 6804px;
+  width: 1431px;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(128, 0, 0, 1);
+}

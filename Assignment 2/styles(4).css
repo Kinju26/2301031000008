@@ -1,0 +1,91 @@
+
+/* Add font files for ADLaM Display */
+@font-face {
+  font-family: 'ADLaM Display';
+  src: url('fonts/adlam-display.woff2') format('woff2'),
+       url('fonts/adlam-display.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --font-family-adlam-display: 'ADLaM Display', sans-serif;
+  --font-family-inter: 'Inter', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.text-2 {
+  position: absolute;
+  left: 74px;
+  top: 41px;
+  width: 1248px;
+  height: 79px;
+  font-size: 40px;
+  font-family: var(--font-family-adlam-display);
+  font-weight: normal;
+  line-height: 44px;
+  text-align: left;
+  color: rgba(255, 252, 252, 1);
+}
+
+.text-3 {
+  position: absolute;
+  left: 50px;
+  top: 235px;
+  width: 753px;
+  height: 522px;
+  font-size: 36px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(255, 252, 252, 1);
+}
+
+.text-4 {
+  position: absolute;
+  left: 43px;
+  top: 252px;
+  width: 0px;
+  height: 44px;
+  font-size: 36px;
+  font-family: var(--font-family-inter);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.frame-1-5 {
+  position: absolute;
+  left: 647px;
+  top: 720px;
+  width: 47px;
+  height: 37px;
+}
+
+.image-2-6 {
+  position: absolute;
+  left: 810px;
+  top: 109px;
+  width: 569px;
+  height: 805px;
+  width: 100%;
+  height: auto;
+}
+
+.design-5-1 {
+  position: absolute;
+  left: 17px;
+  top: 2273px;
+  width: 1443px;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(128, 0, 0, 1);
+}

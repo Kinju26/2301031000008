@@ -1,0 +1,45 @@
+:root {
+  --font-family-montserrat: 'Montserrat', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.rectangle-8-2 {
+  position: absolute;
+  left: 451px;
+  top: 383px;
+  width: 547px;
+  height: 242px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.text-3 {
+  position: absolute;
+  left: 542px;
+  top: 465px;
+  width: 347px;
+  height: 78px;
+  font-size: 64px;
+  font-family: var(--font-family-montserrat);
+  font-weight: bold;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.design-14-1 {
+  position: absolute;
+  left: 1552px;
+  top: 6804px;
+  width: 1431px;
+  height: 1024px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(128, 0, 0, 1);
+}
